@@ -1,5 +1,4 @@
 <?php
-require_once 'setting.php';
 require_once 'theme/header.php';
 require_once 'theme/menu.php';
 ?>
